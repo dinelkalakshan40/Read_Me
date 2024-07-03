@@ -1,3 +1,4 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Dinelka Lakshan</h1> 
 <h3 align="center">A passionate full-stack developer from Srilanka</h3>
 
